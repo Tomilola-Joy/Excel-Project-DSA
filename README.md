@@ -1,17 +1,17 @@
 # Excel-Project-DSA
 Amazon Product Review Analysis –Project Document 
 
-1. # Introduction: My Learning Journey
+# Introduction: My Learning Journey
 
 Embarking on this data analysis project marked a significant milestone in my journey to becoming a skilled Data Analyst. I have been building my skills in Excel, pivot tables, data visualization, and dashboard design. This project allowed me to practically apply these skills to a real-world business scenario, analyzing customer review data to drive decisions.
 
 
-2. # Project Overview
+# Project Overview
 
 The goal of this project is to help sellers on Amazon make informed decisions by analyzing product performance and customer sentiment data. Working as a Junior Analyst at RetailTech Insights, I evaluated product reviews and metadata to generate actionable insights that can drive product improvements, marketing strategy, and customer engagement.
 
 
-3. # Project Topic
+# Project Topic
 
 In this project, the central focus is Amazon Product Review Analysis, which involves exploring customer feedback, product performance, and pricing data for products listed on Amazon. The goal is to help sellers and decision-makers gain data-driven insights into what makes a product successful, where improvements are needed, and how customer sentiment aligns with product ratings and reviews.
 
@@ -22,48 +22,60 @@ The insights gathered help improve: Pricing and discounting strategies, Marketin
 This topic is vital in today’s data-driven retail space where platforms like Amazon are heavily influenced by customer reviews and competitive pricing. Leveraging this kind of analysis enables sellers to stay ahead in the e-commerce market.
 
 
-4. # Case Study: Dataset Description
+# Case Study: Dataset Description
 
-• Source: Scraped from Amazon product pages
+Source: Scraped from Amazon product pages
 
-• Records: 1,465 products
+Records: 1,465 products
 
-• Columns: 16
+Columns: 16
 
-• Fields Include: Product name, category, price, discount %, actual vs discounted price, ratings, rating count, review count, review text/title
+Fields Include: Product name, category, price, discount %, actual vs discounted price, ratings, rating count, review count, review text/title
 
 Each row represents a single product, with aggregated reviews and performance data.
 
 
-5. # Tools Used
+# Tools Used
 
 Microsoft Excel:
+
 Data cleaning
+
 Pivot table analysis
+
 Visualizations
+
 Dashboard creation
 
 
-6. # Data Cleaning Process
+# Data Cleaning Process
 
 Removed duplicates and blank rows
+
 Split and transformed comma-separated values into structured columns
+
 Standardized formats for prices and percentages
+
 Created calculated columns for metrics like potential revenue, rating × review count, etc.
+
 Binned products into price ranges using conditional logic
 
 
-7. # Steps Used During Analysis
+# Steps Used During Analysis
 
 Loaded the cleaned dataset into Excel
 Created calculated fields (e.g., actual revenue, price buckets)
+
 Used pivot tables to summarize by category, rating, and discount
+
 Applied filters and slicers for dynamic analysis
+
 Built charts (bar, pie, column) for key metrics
+
 Designed a dashboard with KPIs, visuals, and category breakdowns
 
 
-8. # Business Insights Questions & Answers
+# Business Insights Questions & Answers
 
 1. What is the average discount percentage by product category?
 
@@ -122,7 +134,7 @@ Computers & Accessories has products with discounts up to 94%, followed by Elect
 Amazon Basics High-Speed HDMI, Boat Bassheads 100, and Redmi 9A Sport and Activ variants are top products by combined score of rating and review count.
 
 
-9. # Final Dashboard
+# Final Dashboard
 
 A visual dashboard was built in Excel with the following:
 
@@ -135,7 +147,7 @@ Slicers for category filtering.
 Product highlights section.
 
 
-10. # Conclusion & Recommendations for Stakeholders
+# Conclusion & Recommendations for Stakeholders
 
 Focus marketing efforts on high-performing categories: Electronics.
 
