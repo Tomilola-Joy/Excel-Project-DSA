@@ -38,42 +38,29 @@ Each row represents a single product, with aggregated reviews and performance da
 5. # Tools Used
 
 Microsoft Excel:
-
-- Data cleaning
-
-- Pivot table analysis
-
-- Visualizations
-
-- Dashboard creation
+Data cleaning
+Pivot table analysis
+Visualizations
+Dashboard creation
 
 
 6. # Data Cleaning Process
 
-- Removed duplicates and blank rows
-
-- Split and transformed comma-separated values into structured columns
-
-- Standardized formats for prices and percentages
-
-- Created calculated columns for metrics like potential revenue, rating × review count, etc.
-
-- Binned products into price ranges using conditional logic
+Removed duplicates and blank rows
+Split and transformed comma-separated values into structured columns
+Standardized formats for prices and percentages
+Created calculated columns for metrics like potential revenue, rating × review count, etc.
+Binned products into price ranges using conditional logic
 
 
 7. # Steps Used During Analysis
 
-1. Loaded the cleaned dataset into Excel
-
-2. Created calculated fields (e.g., actual revenue, price buckets)
-
-3. Used pivot tables to summarize by category, rating, and discount
-
-4. Applied filters and slicers for dynamic analysis
-
-5. Built charts (bar, pie, column) for key metrics
-
-6. Designed a dashboard with KPIs, visuals, and category breakdowns
+Loaded the cleaned dataset into Excel
+Created calculated fields (e.g., actual revenue, price buckets)
+Used pivot tables to summarize by category, rating, and discount
+Applied filters and slicers for dynamic analysis
+Built charts (bar, pie, column) for key metrics
+Designed a dashboard with KPIs, visuals, and category breakdowns
 
 
 8. # Business Insights Questions & Answers
