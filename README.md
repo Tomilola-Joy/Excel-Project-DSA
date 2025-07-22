@@ -159,3 +159,15 @@ Invest more in products with high review counts, they are likely to perform bett
 
 Keep price points competitive in the ₹200–₹500 range for volume.
 
+
+ ![alt text](/image/"Screenshot_20250704-180117~2".png)
+ 
+<img width="720" height="411" alt="Screenshot_20250704-180117~2" src="https://github.com/user-attachments/assets/2bfcaa10-115f-4635-a53d-eb8c914215e4" />
+
+
+
+
+
+
+
+
